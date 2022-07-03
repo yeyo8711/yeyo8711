@@ -5,7 +5,7 @@
   Im a <em>self taught</em> programmer :pencil: with a <em>passion</em> for :globe_with_meridians:web3. Ive been griding for a year now and Im very proud of how far I have gotten on my journey.
   <br/>
   Started with Javascript on July '21 and moved on to ReactJs at the end of year. This year I picked up Solidity and have since created a few different contracts along with the front end dApps including a blockchain game, NFTs, and a decentralized marketplace.<br/>
-  Im currently learning NodeJs to incorporate some backend features to my apps and to keep building my <a align="center" href="www.j-carm.dev">Portfolio</a>. My inspiration comes from my family specially my little boy :baby: he means the world to me. 
+  Im currently learning NodeJs to incorporate some backend features to my apps and to keep building my <a href="https://www.j-carm.dev">Portfolio</a>. My inspiration comes from my family specially my little boy :baby: he means the world to me. 
   <br/>
   Currently applying actively for my first developer job in front end or web3. 
 </p>
