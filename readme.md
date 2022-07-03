@@ -1,5 +1,7 @@
 # Hi! I'm Jair Carmona :wave:	
-[<img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white' />]
+<img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black' />
+<img src='https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=black' />
+
 
 
 ### Connect with me
