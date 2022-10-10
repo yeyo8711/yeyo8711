@@ -7,7 +7,7 @@
   Started with Javascript on July '21 and moved on to ReactJs at the end of year. This year I picked up Solidity and have since created a few different contracts along with the front end dApps including a blockchain game, NFTs, and a decentralized marketplace.<br/>
   Im currently learning NodeJs to incorporate some backend features to my apps and to keep building my <a href="https://www.j-carm.dev">Portfolio</a>. My inspiration comes from my family specially my little boy :baby: he means the world to me. 
   <br/>
-  Currently applying actively for my first developer job in front end or web3. 
+  Currently working as a freelance dev while I boost my skills
 </p>
 
 <br/>
