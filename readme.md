@@ -2,10 +2,10 @@
 ### Junior Developer
 <img src="./bitmoji.png" align="left" />
 <p align="center">
-  Im a <em>self taught</em> programmer :pencil: with a <em>passion</em> for :globe_with_meridians:web3. Ive been grinding for a year now and Im very proud of how far I have gotten on my journey.
+  Im a <em>self taught</em> programmer :pencil: with a <em>passion</em> for :globe_with_meridians:web3. Ive been grinding for over a year now and Im very proud of how far I have gotten on my journey.
   <br/>
-  Started with Javascript on July '21 and moved on to ReactJs at the end of year. This year I picked up Solidity and have since created a few different contracts along with the front end dApps including a blockchain game, NFTs, and a decentralized marketplace.<br/>
-  Im currently learning NodeJs to incorporate some backend features to my apps and to keep building my <a href="https://www.j-carm.dev">Portfolio</a>. My inspiration comes from my family specially my little boy :baby: he means the world to me. 
+  Started with Javascript on July '21 and moved on to ReactJs at the end of year. This year I picked up Solidity and have since created a few different contracts along with front end dApps including a ERC20 tokens, DAPPS, Bots, NFTs, and a decentralized marketplace.<br/>
+  Im currently learning NodeJs to incorporate some backend features to my apps  and to keep building my <a href="https://www.j-carm.dev">Portfolio</a>. My inspiration comes from my family specially my little boy :baby: he means the world to me. 
   <br/>
   Currently working as a freelance dev while I boost my skills
 </p>
